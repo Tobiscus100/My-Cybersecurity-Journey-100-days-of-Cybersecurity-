@@ -52,3 +52,18 @@ In Module 5, I learned:
 - Professional Certificates
 
 I passed the Course Final exam with 93% and earned the Course Certificate, a badge and some achievements. I'm looking forward to taking the next course. See you tomorrow
+
+
+Day 4: 100 Days of Cybersecurity
+
+Saturday, 28th June,2025
+
+Today I started another course, Networking Basics by Cisco. The course is very well explained, and I must say Cisco has packed this one with a lot of exercises to assess your knowledge and understanding as you proceed. I completed 7 modules with a series of assessments - it's serious business and  I'm looking forward to finishing the remaining part of the course. See you tomorrow... Journey with me 😄💻
+
+Day 5: 100 Days of Cybersecurity
+
+Sunday, 29th June,2025
+
+Yesterday, I completed Modules 1 to 7 of Networking Basics and had to take the Checkpoint Exam to proceed to Module 8. After that, I decided to start Module 8, but I encountered a snag - I was using my phone and needed to complete an activity on Packet Tracer, which can only be done on my laptop. So, I'll be picking up where I left off tomorrow.
+
+Well, Module 8 is all about the Internet Protocol, starting with IPv4 addresses... Join me on this journey☺️
