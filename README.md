@@ -67,3 +67,42 @@ Sunday, 29th June,2025
 Yesterday, I completed Modules 1 to 7 of Networking Basics and had to take the Checkpoint Exam to proceed to Module 8. After that, I decided to start Module 8, but I encountered a snag - I was using my phone and needed to complete an activity on Packet Tracer, which can only be done on my laptop. So, I'll be picking up where I left off tomorrow.
 
 Well, Module 8 is all about the Internet Protocol, starting with IPv4 addresses... Join me on this journey☺️
+
+
+Day 6: 100 Days of Cybersecurity
+
+Monday, 30th June,2025
+
+Today, I started with the activity on Packet Tracer and proceeded with Module 8. I made good progress and was able to complete Modules 9 and 10. 
+
+In Module 9, I studied:
+
+- IPv4 Unicast, Broadcast, and Multicast
+- Types of IPv4 Addresses
+- Special IPv4 Addresses
+- Legacy Class Addressing
+
+In Module 10, I learned about:
+
+- IPv4 and IPv6 Coexistence
+- IPv6 Addressing
+
+This course is Packed with Exercises and Checkpoint Exams as you proceed 
+
+I'll be picking up where I left off tomorrow. Join me on this journey ☺️
+
+
+
+Day 7: 100 Days of Cybersecurity
+
+Tuesday,1st June, 2025
+
+Today, I started a new module and covered some key topics:
+
+- Static and Dynamic Addressing
+- Network Boundaries
+- MAC and IP
+- Broadcast Containment
+- Address Resolution Protocol (ARP)
+
+I made good progress, completing modules 11-14, and answered the exercises and tests. Tomorrow, I'll be wrapping up the remaining modules and taking the Course Final Exam to complete the course....Journey with Me ☺️
