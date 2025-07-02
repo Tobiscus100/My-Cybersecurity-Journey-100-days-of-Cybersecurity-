@@ -95,7 +95,7 @@ I'll be picking up where I left off tomorrow. Join me on this journey ☺️
 
 Day 7: 100 Days of Cybersecurity
 
-Tuesday,1st June, 2025
+Tuesday,1st July, 2025
 
 Today, I started a new module and covered some key topics:
 
@@ -106,3 +106,21 @@ Today, I started a new module and covered some key topics:
 - Address Resolution Protocol (ARP)
 
 I made good progress, completing modules 11-14, and answered the exercises and tests. Tomorrow, I'll be wrapping up the remaining modules and taking the Course Final Exam to complete the course....Journey with Me ☺️
+
+
+Day 8: 100 Days of Cybersecurity
+
+Wednesday,2nd July,2025
+
+Building on the knowledge acquired from previous modules, I completed Modules 15-17 today. I learned about:
+
+- TCP and UDP
+- URI, URN, and URL
+- Network Application Services
+- Domain Name System (DNS)
+- File Transfer Protocol (FTP)
+- Troubleshooting commands
+
+I took the checkpoint and also the course final exam. It wasn't easy, but I was able to pass! I'm excited to share that I've added another certificate to my collection. I'm motivated to continue on this career journey.
+
+Journey with me☺️
