@@ -8,7 +8,7 @@ I started with the Introduction to Cybersecurity course by Cisco, and today I co
 - data security
 - Security breaches
 - consequences of a security breach
-I now have a solid understanding of the importance of cybersecurity in today's digital world. I'm looking forward to diving deeper into the world of cybersecurity and exploring more advanced topics in the coming days. Today's takeaway: cybersecurity is a constantly evolving field that requires continuous learning and adaptation. Module 2 promises more in-depth knowledge about cybersecurity, and I'm eager to move forward. On to Module 2!
+I now have a solid understanding of the importance of cybersecurity in today's digital world. I'm looking forward to diving deeper into the world of cybersecurity and exploring more advanced topics in the coming days. Today's takeaway: cybersecurity is a constantly evolving field that requires continuous learning and adaptation. Module 2 promises more in-depth knowledge about cybersecurity, and I'm eager to move forward. On to Module 2! Journey with Me☺️
 
 
 Day 2: 100 Days of Cybersecurity
@@ -31,7 +31,7 @@ Module 3
 * Encryption 
 Etc.
  I'm excited to build on this foundation over the next 98 days. 
-On to Module 4.
+On to Module 4... Journey with Me☺️
 
 Day 3: 100 Days of Cybersecurity
 
@@ -51,14 +51,14 @@ In Module 5, I learned:
 - Careers in Cybersecurity
 - Professional Certificates
 
-I passed the Course Final exam with 93% and earned the Course Certificate, a badge and some achievements. I'm looking forward to taking the next course. See you tomorrow
+I passed the Course Final exam with 93% and earned the Course Certificate, a badge and some achievements. I'm looking forward to taking the next course. See you tomorrow... Journey with Me☺️
 
 
 Day 4: 100 Days of Cybersecurity
 
 Saturday, 28th June,2025
 
-Today I started another course, Networking Basics by Cisco. The course is very well explained, and I must say Cisco has packed this one with a lot of exercises to assess your knowledge and understanding as you proceed. I completed 7 modules with a series of assessments - it's serious business and  I'm looking forward to finishing the remaining part of the course. See you tomorrow... Journey with me 😄💻
+Today I started another course, Networking Basics by Cisco. The course is very well explained, and I must say Cisco has packed this one with a lot of exercises to assess your knowledge and understanding as you proceed. I completed 7 modules with a series of assessments - it's serious business and  I'm looking forward to finishing the remaining part of the course. See you tomorrow... Journey with Me 😄💻
 
 Day 5: 100 Days of Cybersecurity
 
@@ -66,7 +66,7 @@ Sunday, 29th June,2025
 
 Yesterday, I completed Modules 1 to 7 of Networking Basics and had to take the Checkpoint Exam to proceed to Module 8. After that, I decided to start Module 8, but I encountered a snag - I was using my phone and needed to complete an activity on Packet Tracer, which can only be done on my laptop. So, I'll be picking up where I left off tomorrow.
 
-Well, Module 8 is all about the Internet Protocol, starting with IPv4 addresses... Join me on this journey☺️
+Well, Module 8 is all about the Internet Protocol, starting with IPv4 addresses...Journey with Me ☺️
 
 
 Day 6: 100 Days of Cybersecurity
@@ -89,7 +89,7 @@ In Module 10, I learned about:
 
 This course is Packed with Exercises and Checkpoint Exams as you proceed 
 
-I'll be picking up where I left off tomorrow. Join me on this journey ☺️
+I'll be picking up where I left off tomorrow. Journey with me☺️
 
 
 
@@ -121,6 +121,27 @@ Building on the knowledge acquired from previous modules, I completed Modules 15
 - File Transfer Protocol (FTP)
 - Troubleshooting commands
 
-I took the checkpoint and also the course final exam. It wasn't easy, but I was able to pass! I'm excited to share that I've added another certificate to my collection. I'm motivated to continue on this career journey.
+I took the checkpoint and also the course final exam. It wasn't easy, but I was able to pass! I'm excited to share that I've added another certificate to my collection. I'm motivated to continue on this career journey.....Journey with me☺️
 
-Journey with me☺️
+
+Day 9: 100 Days of Cybersecurity
+
+What I've Completed So Far:
+- Finished Introduction to Cybersecurity by Cisco
+- Completed Networking Basics (2nd course in Cisco Junior Cybersecurity Analyst Path)
+
+Gained foundational knowledge in:
+- Cyber threats, vulnerabilities, and risk management
+- Networking concepts, devices, IP addressing, and protocols
+
+Today, I started learning Python for Cybersecurity. Although I had some basic knowledge of Python, I decided to create a study plan with ChatGPT to focus on cybersecurity applications. Here's what I learned:
+
+- What Python is and its importance in cybersecurity
+- Using print() to display output
+- Using input() to collect user input
+- Understanding variables and how they store information
+
+I built my first beginner script: 
+A Cybersecurity Login Logger that takes user input for username and IP address, then logs the info.
+
+Tomorrow, I'll be starting the next course in the Junior Cybersecurity Analyst path by Cisco...Journey with me☺️
