@@ -126,6 +126,8 @@ I took the checkpoint and also the course final exam. It wasn't easy, but I was 
 
 Day 9: 100 Days of Cybersecurity
 
+Thursday,3rd July,2025
+
 What I've Completed So Far:
 - Finished Introduction to Cybersecurity by Cisco
 - Completed Networking Basics (2nd course in Cisco Junior Cybersecurity Analyst Path)
@@ -145,3 +147,25 @@ I built my first beginner script:
 A Cybersecurity Login Logger that takes user input for username and IP address, then logs the info.
 
 Tomorrow, I'll be starting the next course in the Junior Cybersecurity Analyst path by Cisco...Journey with me☺️
+
+
+Day 10: 100 Days of Cybersecurity
+
+Friday,4th July,2025
+
+Moving forward with the Cisco Junior Cybersecurity Analyst path, I started the Networking Devices and Initial Configuration course. I completed Modules 1 and 2, and here's what I learned:
+
+- Network Design
+- Reliable Networks
+- Network Architecture
+- 4 key characteristics of network architecture that meet user expectations
+- Network Security
+- Hierarchical Network Design
+- Access, Distribution, and Core layers
+- Cloud and Virtualization concepts, including:
+    - Types of cloud models
+    - Cloud services
+    - Cloud computing
+    - Advantages of virtualization
+
+As expected, Cisco's course is designed to assess my understanding as I progress. Looking forward to the next modules....Journey with me☺️
