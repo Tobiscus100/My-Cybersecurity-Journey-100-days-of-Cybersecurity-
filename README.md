@@ -169,3 +169,29 @@ Moving forward with the Cisco Junior Cybersecurity Analyst path, I started the N
     - Advantages of virtualization
 
 As expected, Cisco's course is designed to assess my understanding as I progress. Looking forward to the next modules....Journey with me☺️
+
+
+
+Day 11: 100 Days of Cybersecurity
+
+Sunday,6th July,2025
+
+Had a bit of a setback yesterday due to illness, but I'm back on track today, I picked up where I left off and completed Modules 3-5. Here's what I covered:
+
+- Module 3: Number systems, including:
+    - Binary and IPv4 addresses
+    - Binary to decimal conversion
+    - Hexadecimal and IPv6 addresses
+    - Hexadecimal to decimal conversion
+    - Decimal to hexadecimal conversion
+
+- Modules 4-5: Network fundamentals, including:
+    - Ethernet frames and encapsulation
+    - Ethernet MAC addresses
+    - Network layer concepts
+    - IPv4 and IPv6 packets
+    - Determining the network using logical AND operations
+
+These modules were a bit of a challenge, requiring me to recall previously learned concepts. As usual, the modules included quizzes, and I also took 2 checkpoint exams to test my understanding.
+
+Glad to be back, the learning continues.....Journey with Me ☺️
