@@ -176,7 +176,7 @@ Day 11: 100 Days of Cybersecurity
 
 Sunday,6th July,2025
 
-Had a bit of a setback yesterday due to illness, but I'm back on track today, I picked up where I left off and completed Modules 3-5. Here's what I covered:
+Had a bit of a setback yesterday due to illness, but I'm back on track today, I picked up where I left off and completed Modules 3-6. Here's what I covered:
 
 - Module 3: Number systems, including:
     - Binary and IPv4 addresses
@@ -185,13 +185,41 @@ Had a bit of a setback yesterday due to illness, but I'm back on track today, I 
     - Hexadecimal to decimal conversion
     - Decimal to hexadecimal conversion
 
-- Modules 4-5: Network fundamentals, including:
+- Modules 4-6: Network fundamentals, including:
     - Ethernet frames and encapsulation
     - Ethernet MAC addresses
     - Network layer concepts
     - IPv4 and IPv6 packets
     - Determining the network using logical AND operations
+    - Ipv4 Address Structure 
+    - The Subnet Mask 
 
 These modules were a bit of a challenge, requiring me to recall previously learned concepts. As usual, the modules included quizzes, and I also took 2 checkpoint exams to test my understanding.
 
 Glad to be back, the learning continues.....Journey with Me ☺️
+
+
+Day 12: 100 Days of Cybersecurity
+
+Monday,7th July,2025.
+
+I picked up where I left off yesterday, starting with Module 7 and completing Modules 8 and 9. 
+Here's  what I learned:
+
+- Module 7: Network Fundamentals
+    - Address Resolution Protocol (ARP)
+    - ARP Request
+- Module 8: IP Addressing Services
+    - Domain Name System (DNS) Services
+    - DNS Message Format
+    - DNS Hierarchy
+    - Dynamic Host Configuration Protocol (DHCP) Services
+- Module 9: Transport Layer
+    - Role of the Transport Layer
+    - Transport Layer Responsibilities
+    - Transport Layer Protocols:
+        - Transmission Control Protocol (TCP)
+        - User Datagram Protocol (UDP)
+    - Features of TCP and UDP
+
+I'm excited to continue learning and deepening my understanding of cybersecurity concepts......Journey with Me ☺️
