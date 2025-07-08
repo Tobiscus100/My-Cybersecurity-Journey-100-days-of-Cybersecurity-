@@ -223,3 +223,19 @@ Here's  what I learned:
     - Features of TCP and UDP
 
 I'm excited to continue learning and deepening my understanding of cybersecurity concepts......Journey with Me ☺️
+
+
+
+Day 13: 100 Days of Cybersecurity 
+
+Tuesday,8th July,2025
+
+Today's work was based on module 10 and 11
+Here's what I learned:
+* The Cisco iOS command line 
+* iOS Navigation 
+* Primary command modes 
+* The command structure 
+* Secure the Devices
+
+I'm looking forward to completing the rest of the course tomorrow and taking the Final Exam...... Journey with Me☺️
