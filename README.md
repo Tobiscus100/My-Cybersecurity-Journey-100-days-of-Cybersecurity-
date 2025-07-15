@@ -239,3 +239,88 @@ Here's what I learned:
 * Secure the Devices
 
 I'm looking forward to completing the rest of the course tomorrow and taking the Final Exam...... Journey with Me☺️
+
+
+
+Day 14: 100 Days of Cybersecurity 
+
+Wednesday,9th July,2025
+
+I've been building on my knowledge from previous modules and completed the Networking and Initial Configuration section today. Here's what I learned:
+
+- Internet Control Message Protocol (ICMP)
+- ICMPv4 and ICMPv6 Messages
+- Host Reachability
+- Destination or Service Unreachable
+- Time Exceeded
+
+I also took the Checkpoint Exam to progress in the course and completed the Course Final Exam, which assessed my knowledge across all modules.
+
+I'm excited to share that I've completed 3 out of the courses in the Junior Cybersecurity Analyst path by Cisco and added another certificate to my collection. I'm motivated and excited to continue on this career path.......Journey with Me ☺️
+
+
+Day 15: 100 Days of Cybersecurity
+
+Thursday,10th July,2025
+
+Today, I revisited key topics from my courses, ensuring a solid grasp of the concepts. I'll continue reviewing more before diving into the next course.....Journey with Me ☺️
+
+
+Day 16: 100 Days of Cybersecurity
+
+Friday,11th July,2025.
+
+Today, I continued revising previously learned topics, understanding of key concepts like:
+
+- Network Fundamentals (ARP, ICMP)
+- IP Addressing Services (DNS, DHCP)
+- Transport Layer (TCP, UDP)
+
+I also created a post about the concepts.I'm excited to keep building on this foundation and explore more advanced topics. Journey with me ☺️
+
+
+Day 17: 100 Days of Cybersecurity
+
+Saturday,12th July,2025.
+
+Today, I explored new topics in cybersecurity, building on my previous knowledge. Some key areas I focused on include:
+
+- Network Security Fundamentals
+- Threat Analysis and Risk Management
+- Incident Response and Mitigation
+
+I'm excited to continue learning and applying these concepts to real-world scenarios....... Journey with Me☺️
+
+
+Day 18: 100 Days of Cybersecurity
+
+Sunday,13th July,2025
+
+Today, I revisited key cybersecurity topics in the past courses:
+
+1. Network Fundamentals: understanding of network protocols and architecture
+2. Security Measures: Refreshed my knowledge on implementing firewalls, encryption, and access controls
+3. Vulnerability Management: Reemphasized the importance of identifying and patching vulnerabilities
+4. Incident Response: Reviewed strategies for planning and executing effective responses to security incidents
+
+I'm excited and motivated to build on this knowledge! Tomorrow, I'll be starting the next course in the Junior Cybersecurity Analyst path by Cisco...... Journey with Me☺️
+
+
+
+Day 19: 100 Days of Cybersecurity
+
+Monday,15th July,2025
+
+Today, I continued my journey in the Junior Cybersecurity Analyst path by Cisco, diving into the Endpoint Security course. I completed Modules 1 and 2, covering key topics such as:
+
+- Common Threats
+- Types of Cyber Threats
+- Internal vs. External Threats
+- User Threats and Vulnerabilities
+- Threat Complexity
+- Backdoors and Rootkits
+- Social Engineering
+- Piggybacking and Tailgating
+- Logic Bombs
+
+The course started with identifying threats and vulnerabilities that attackers can exploit. To assess my learning, I took two quizzes, scoring 83% in both which is not bad and I was asked to create a post about  Cybersecurity Social Engineering Attacks .This course is engaging and informative....Journey with me☺️
