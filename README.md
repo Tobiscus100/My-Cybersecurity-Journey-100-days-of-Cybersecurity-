@@ -309,7 +309,7 @@ I'm excited and motivated to build on this knowledge! Tomorrow, I'll be starting
 
 Day 19: 100 Days of Cybersecurity
 
-Monday,15th July,2025
+Tuesday,15th July,2025
 
 Today, I continued my journey in the Junior Cybersecurity Analyst path by Cisco, diving into the Endpoint Security course. I completed Modules 1 and 2, covering key topics such as:
 
@@ -324,3 +324,43 @@ Today, I continued my journey in the Junior Cybersecurity Analyst path by Cisco,
 - Logic Bombs
 
 The course started with identifying threats and vulnerabilities that attackers can exploit. To assess my learning, I took two quizzes, scoring 83% in both which is not bad and I was asked to create a post about  Cybersecurity Social Engineering Attacks .This course is engaging and informative....Journey with me☺️
+
+Day 20: 100 Days of Cybersecurity
+
+Wednesday,16th July,2025
+
+Today, I completed Modules 3 and 4 of the Endpoint Security course. Given the Contents of topics, I'm taking them gradually to ensure thorough understanding. Today's topics included:
+
+- IP Vulnerabilities
+- IP Services
+- IP-related Attacks
+- Address Spoofing Attacks
+- TCP and UDP Vulnerabilities
+- Mitigating Common Attacks
+- Also Ways and Methods of Defending the Network from Various Forms of Attacks
+
+The course provides detailed explanations of these topics, making it engaging and educational. I'm thoroughly enjoying it and feeling motivated, Kudos to Cisco Networking Academy..... Journey with Me☺️
+
+
+Day 21: 100 Days of Cybersecurity
+
+Thursday,17th July,2025
+
+Today, I completed Module 5 of the Endpoint Security course, covering a range of topics including:
+
+- Wireless Communication
+- WLAN Operations
+- Wireless vs. Wired LANs
+- Wireless Devices (AP, LWAP, WLC)
+- Wireless Security
+- DoS Attacks
+- Rogue Access Points
+- Encryption Methods
+- Firewalls
+- Firewall Types
+- Firewall Benefits
+- Intrusion Prevention and Detection Devices
+- Types of IPS
+- Advantages and Disadvantages
+
+These topics are comprehensive and were explained in detail. As usual there are , quizzes and checkpoint exams as the course progresses to assess my understanding. I'm thoroughly enjoying this journey so far...... Journey with Me😊.
