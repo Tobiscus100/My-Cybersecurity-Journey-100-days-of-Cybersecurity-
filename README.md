@@ -364,3 +364,42 @@ Today, I completed Module 5 of the Endpoint Security course, covering a range of
 - Advantages and Disadvantages
 
 These topics are comprehensive and were explained in detail. As usual there are , quizzes and checkpoint exams as the course progresses to assess my understanding. I'm thoroughly enjoying this journey so far...... Journey with Me😊.
+
+Day 22: 100 Days of Cybersecurity
+
+Friday,18th July,2025
+
+I've completed Modules 1 to 6 of the Endpoint Security course, which consists of 10 modules. Before moving on to Module 7, I decided to review the previously covered topics to reinforce my understanding. The topics I revisited include:
+
+- Types of Cyber Threats
+- Defending against Deception
+- WiFi and Mobile Defense
+- Encryption Methods
+- Intrusion Prevention and Detection Devices
+- Types of IPS
+- Simple Network Management Protocol (SNMP)
+- Virtual Private Network (VPN)
+
+Having completed 60% of the course, I've found it to be highly educational and informative. I'm committed to finishing the course and continuing my learning journey in cybersecurity.... Journey with Me☺️
+
+
+
+Day 23: 100 Days of Cybersecurity
+
+Monday,21st July,2025
+
+Today, I completed Modules 7 and 8 of the Endpoint Security course, which covered a range of topics including:
+
+- Windows Operating System
+- Operating System Vulnerabilities and Recommendations
+- Windows Architecture and Operations
+- Windows File System
+- Windows Security
+- Linux Basics
+- The Value of Linux
+- Linux Tools
+- Basic Linux Commands
+- Hardening Devices
+- Linux File System
+
+These modules provided in-depth knowledge of Operating Systems, focusing on Windows and Linux. Although comprehensive, the content was engaging and interesting. With only two modules left, I'm excited to complete the Endpoint Security course tomorrow and taking the Endpoint and Final Exam....Journey with Me☺️
