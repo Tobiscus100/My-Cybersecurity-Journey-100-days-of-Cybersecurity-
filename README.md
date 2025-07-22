@@ -403,3 +403,28 @@ Today, I completed Modules 7 and 8 of the Endpoint Security course, which covere
 - Linux File System
 
 These modules provided in-depth knowledge of Operating Systems, focusing on Windows and Linux. Although comprehensive, the content was engaging and interesting. With only two modules left, I'm excited to complete the Endpoint Security course tomorrow and taking the Endpoint and Final Exam....Journey with Me☺️
+
+
+Day 24: 100 Days of Cybersecurity
+
+Tuesday,22nd July,2025
+
+I've completed the final two modules (9 and 10) of the Endpoint Security course, and I'm thrilled with the knowledge I've gained. The topics were engaging and informative, covering areas such as:
+
+- Defending Systems and Devices
+- Patch Management
+- Endpoint Security
+- Host-based Security Options
+- Host Encryption
+- Apple System Security Features
+- Physical Protection of Devices
+- Anti-malware Protection
+- Host-based Malware Protection
+- Network-based Malware Protection
+- Host-based Intrusion Prevention (HIDS)
+- Security Principles and Cybersecurity Countermeasures
+- Standards and Guidelines and more topics 
+
+I also came across the Cybersecurity Cube developed by John McCumber again in these module, which includes the CIA Triad, States of Data, and Cybersecurity Safeguards. These modules focused on securing endpoints, and I appreciate the comprehensive approach.
+
+After completing the quizzes and Checkpoint Exam, I'm now ready to conclude the course by taking the Final Exam tomorrow. I'm looking forward to wrapping up this course and celebrating my progress..... Journey with me☺️
