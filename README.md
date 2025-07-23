@@ -428,3 +428,10 @@ I've completed the final two modules (9 and 10) of the Endpoint Security course,
 I also came across the Cybersecurity Cube developed by John McCumber again in these module, which includes the CIA Triad, States of Data, and Cybersecurity Safeguards. These modules focused on securing endpoints, and I appreciate the comprehensive approach.
 
 After completing the quizzes and Checkpoint Exam, I'm now ready to conclude the course by taking the Final Exam tomorrow. I'm looking forward to wrapping up this course and celebrating my progress..... Journey with me☺️
+
+
+Day 25: 100 Days of Cybersecurity
+
+Wednesday,23rd July,2025
+
+I've officially completed the Endpoint Security course! Today, I took the Course Final Exam and successfully earned another certificate. I'm thrilled to share this milestone and celebrate my progress. This journey has been incredibly informative, and I'm excited and Motivated to continue on this path. Thanks for joining me....Journey with Me☺️
