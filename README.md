@@ -435,3 +435,26 @@ Day 25: 100 Days of Cybersecurity
 Wednesday,23rd July,2025
 
 I've officially completed the Endpoint Security course! Today, I took the Course Final Exam and successfully earned another certificate. I'm thrilled to share this milestone and celebrate my progress. This journey has been incredibly informative, and I'm excited and Motivated to continue on this path. Thanks for joining me....Journey with Me☺️
+
+Day 26: 100 Days of Cybersecurity
+
+Monday,28th July 2025.
+
+I've started the next course in the Introduction to Cybersecurity Analyst path by Cisco, which is _Network Defense_. I've completed Module 1 and 2, covering topics such as:
+
+- Defense-in-Depth
+- Identifying assets
+- Asset Standardization
+- Identifying Vulnerabilities
+- Defense in Depth Strategies
+- Configuration Management
+- Business policies
+- BYOD policies
+- Physical Security
+- Biometrics
+- Surveillance
+- Application Development
+- Network Hardening
+- The Demilitarized zone (DMZ)
+
+These modules were focused on understanding System and Network Defense. I'm thrilled to proceed in this path.....Journey with me ☺️
