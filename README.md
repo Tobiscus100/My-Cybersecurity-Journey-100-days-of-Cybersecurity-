@@ -458,3 +458,20 @@ I've started the next course in the Introduction to Cybersecurity Analyst path b
 - The Demilitarized zone (DMZ)
 
 These modules were focused on understanding System and Network Defense. I'm thrilled to proceed in this path.....Journey with me ☺️
+
+
+
+Day 27: 100 Days of Cybersecurity
+
+Tuesday,29th July 2025.
+
+Today, I continued with the Network Defense course, completing Modules 3 and 4, I also took the Checkpoint Exam as required. Some of the key topics I covered include:
+
+- Access control
+- Physical Access Control
+- Logical Access Control
+- Administrative Access Control
+- File Access Control
+- AAA usage and operations
+
+Focusing on Access Control, these topics were incredibly informative......Journey with Me ☺️
