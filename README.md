@@ -438,7 +438,7 @@ I've officially completed the Endpoint Security course! Today, I took the Course
 
 Day 26: 100 Days of Cybersecurity
 
-Monday,28th July 2025.
+Monday,28th July, 2025.
 
 I've started the next course in the Introduction to Cybersecurity Analyst path by Cisco, which is _Network Defense_. I've completed Module 1 and 2, covering topics such as:
 
@@ -463,7 +463,7 @@ These modules were focused on understanding System and Network Defense. I'm thri
 
 Day 27: 100 Days of Cybersecurity
 
-Tuesday,29th July 2025.
+Tuesday,29th July, 2025.
 
 Today, I continued with the Network Defense course, completing Modules 3 and 4, I also took the Checkpoint Exam as required. Some of the key topics I covered include:
 
@@ -475,3 +475,22 @@ Today, I continued with the Network Defense course, completing Modules 3 and 4, 
 - AAA usage and operations
 
 Focusing on Access Control, these topics were incredibly informative......Journey with Me ☺️
+
+
+
+Day 28: 100 Days of Cybersecurity
+
+Wednesday,30th July,2025
+
+I continued with the Network Defense course, completing Modules 5 and the accompanying Checkpoint Exam and quizzes. Some of the key topics I covered include:
+
+- Firewall Technologies
+- Common Firewall properties
+- Types of Firewalls
+- Firewall Benefits and Limitations
+- Firewall Network Design
+- Zone-Based Policy Firewalls (ZPF)
+- ZPF Design
+- ZPF Operation
+
+Focusing on Firewalls, these topics were engaging and informative. I'm excited and motivated to continue on this path and share my journey with you.....Journey with me ☺️
