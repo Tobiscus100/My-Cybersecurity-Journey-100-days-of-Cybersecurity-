@@ -494,3 +494,19 @@ I continued with the Network Defense course, completing Modules 5 and the accomp
 - ZPF Operation
 
 Focusing on Firewalls, these topics were engaging and informative. I'm excited and motivated to continue on this path and share my journey with you.....Journey with me ☺️
+
+
+Day 29: 100 Days of Cybersecurity 
+
+Thursday,31st July,2025.
+
+Today, I continued the Network Defense course, completing Modules 7 and 8, along with the Checkpoint Exams and quizzes. Some of the key topics I covered include:
+
+- Virtualization and Cloud Computing
+- Threats to Cloud Computing
+- Domains of Cloud Security
+- Secure Coding Techniques
+- Cryptography
+- Encryption
+
+Focusing on Encryption and Confidentiality, this course was informative and helped reinforce previously learned topics....Journey with Me ☺️
