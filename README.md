@@ -510,3 +510,39 @@ Today, I continued the Network Defense course, completing Modules 7 and 8, along
 - Encryption
 
 Focusing on Encryption and Confidentiality, this course was informative and helped reinforce previously learned topics....Journey with Me ☺️
+
+
+
+Day 30: 100 Days of Cybersecurity
+
+Friday, 1st August,2025.
+
+Today, I continued the Network Defense course, completing Modules 9 and 10, along with the quizzes. Some of the key topics I covered include:
+
+- Technology and Protocols
+- Syslog and NTP
+- Encryption, Encapsulation, and Tunneling
+- Load Balancing
+- Network Security Data
+- Types of Security Data
+- Session and Transaction Data
+- End Device Logs
+- Syslog
+- TCPdump
+
+These modules were very engaging and interesting...Journey with Me ☺️
+
+
+Day 31: 100 Days of Cybersecurity
+
+Saturday,2nd August,2025.
+
+Today, I completed the Network Defense course by taking the last module (11). Some of the key topics I covered include:
+
+- Evaluating Alerts
+- Security Onion
+- Detecting tools for collecting Alert Data
+- Analysis tools
+- Evaluating Alerts
+
+I completed the course, along with the quiz, checkpoint exam, and the Course Final exam. I'm excited to share that I've added another certificate to my collection! I'm very motivated to complete the Introduction to Junior Cybersecurity Analyst path.... Journey with Me ☺️
