@@ -546,3 +546,27 @@ Today, I completed the Network Defense course by taking the last module (11). So
 - Evaluating Alerts
 
 I completed the course, along with the quiz, checkpoint exam, and the Course Final exam. I'm excited to share that I've added another certificate to my collection! I'm very motivated to complete the Introduction to Junior Cybersecurity Analyst path.... Journey with Me ☺️
+
+
+Day 32: 100 Days of Cybersecurity
+
+Monday,4th August,2025.
+
+As today marks the beginning of a new week, I also started the next course in the Introduction to Junior Cybersecurity Analyst path - Cyber Threat Management. I must say, even at its beginning, this course is very interesting. Today, I completed Modules 1 and 2. The topics I covered include:
+
+- Governance Compliance
+- Cybersecurity Policies
+- Types of Cybersecurity Policies
+- Types of Security Policies
+- Ethics of Cybersecurity
+- The Ten Commandments of Computer Ethics
+- Cybercrime
+- Cybersecurity laws
+- Network Security Testing
+- Vulnerability Scanners
+- Network Security Testing Techniques
+- Penetration Testing
+- Levels of Penetration Testing
+- Penetration Phases
+
+I completed the modules along with the quizzes. Excited to share that I learned a lot, and even newer things like the 10 Commandments of Computer Ethics. You'll find it in Slide 3, you need to check it......Journey with Me ☺️
