@@ -570,3 +570,39 @@ As today marks the beginning of a new week, I also started the next course in th
 - Penetration Phases
 
 I completed the modules along with the quizzes. Excited to share that I learned a lot, and even newer things like the 10 Commandments of Computer Ethics. You'll find it in Slide 3, you need to check it......Journey with Me ☺️
+
+
+
+Day 33: 100 Days of Cybersecurity
+
+Tuesday,5th August,2025.
+
+I continued the Cyber Threat Management course, completing Modules 3 and 4. Some of the key topics I covered include:
+
+- Network Intelligence Communities
+- Threat Intelligence Services
+- Network and Server Profiling
+- Network Vulnerability Testing
+- Risk Management
+- Vulnerability Management
+
+I completed these modules along with the quizzes, and I must say, it was very informative......Journey with Me ☺️
+
+
+
+Day 34: 100 Days of Cybersecurity
+
+Wednesday,6th July,2025.
+
+I wrapped up the Cyber Threat Management course, completing the last two modules (5 and 6). Some of the key topics I covered include:
+
+- Risk Management
+- Risk Types
+- Risk Management Process
+- Risk Assessment
+- Risk Assessment Methodology
+- Risk Mitigation
+- Digital Forensics and Incident Analysis and Response
+- Digital Forensics
+
+I completed these modules along with quizzes and Checkpoint Exams. Tomorrow, I'll be completing the course by taking the last Checkpoint Exam and the Course Final Exam....Journey with Me ☺️
