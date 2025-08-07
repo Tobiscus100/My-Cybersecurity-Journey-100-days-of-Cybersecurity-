@@ -592,7 +592,7 @@ I completed these modules along with the quizzes, and I must say, it was very in
 
 Day 34: 100 Days of Cybersecurity
 
-Wednesday,6th July,2025.
+Wednesday,6th August,2025.
 
 I wrapped up the Cyber Threat Management course, completing the last two modules (5 and 6). Some of the key topics I covered include:
 
@@ -606,3 +606,13 @@ I wrapped up the Cyber Threat Management course, completing the last two modules
 - Digital Forensics
 
 I completed these modules along with quizzes and Checkpoint Exams. Tomorrow, I'll be completing the course by taking the last Checkpoint Exam and the Course Final Exam....Journey with Me ☺️
+
+
+
+Day 35: 100 Days of Cybersecurity
+
+Thursday,7th August,2025
+
+I completed the Cyber Threat Management course! I took the last Checkpoint Exam and the Course Final Exam, and I'm thrilled to have finished the course.
+
+ It's been a great learning experience, and I'm looking forward to learning more and proceeding in this path. I'll be starting the next course in the Introduction to Junior Cybersecurity Analyst path on Monday.....Journey with Me ☺️
