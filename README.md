@@ -616,3 +616,31 @@ Thursday,7th August,2025
 I completed the Cyber Threat Management course! I took the last Checkpoint Exam and the Course Final Exam, and I'm thrilled to have finished the course.
 
  It's been a great learning experience, and I'm looking forward to learning more and proceeding in this path. I'll be starting the next course in the Introduction to Junior Cybersecurity Analyst path on Monday.....Journey with Me ☺️
+
+ Day 36: 100 Days of Cybersecurity
+
+ Monday,11th August,2025
+
+Today, I proceeded in the Junior Cybersecurity Analyst path. The next step after the Cyber Threat Management course was the Junior Cybersecurity Analyst Career Path Exam.
+
+ It was an exam of 50 questions, drawn from each of the courses in the path. I completed the exam, thereby completing the Junior Cybersecurity Analyst Career Path.....Journey with me ☺️
+
+
+ Day 37: 100 Days of Cybersecurity
+
+ Tuesday,12th August,2025
+
+Today, I started the SOC Level 1 path on TryHackMe and covered the introduction part of the course. I'm enthusiastic about what I'm going to learn and the skills I'll acquire in this course.....Journey with Me ☺️
+
+
+Day 38: 100 Days of Cybersecurity
+
+Wednesday,13th August,2025
+
+Today, I continued the SOC Level 1 path that I started and covered the Cyber Kill Chain today. It included previously learned topics from the Junior Cybersecurity Analyst path on Cisco, such as the phases of attack (Reconnaissance, Weaponization, Delivery, etc.). TryHackMe's lessons are equipped with activities that provide hands-on experience, and I'm enthusiastic about this path.....Journey with Me ☺️
+
+
+
+
+
+ 
