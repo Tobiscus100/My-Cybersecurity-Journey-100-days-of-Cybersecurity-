@@ -641,6 +641,14 @@ Today, I continued the SOC Level 1 path that I started and covered the Cyber Kil
 
 
 
+Day 39: 100 Days of Cybersecurity
+
+Thursday,14th August,2025
+
+In the SOC Level 1 path, today I covered the Unified Kill Chain, including topics like the Kill Chain and Threat Modelling. I also explored the Unified Kill Chain, which includes 18 Phases of Attack, along with other interesting topics. It's getting serious.....Journey with Me ☺️
+
+
+
 
 
  
