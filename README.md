@@ -649,6 +649,15 @@ In the SOC Level 1 path, today I covered the Unified Kill Chain, including topic
 
 
 
+Day 40: 100 Days of Cybersecurity
+
+15th,August,2025
+
+Today, I completed the Pentesting Fundamentals room on TryHackMe. I gained a solid understanding of the basics of penetration testing, including key concepts and methodologies. Hands-on exercises helped me grasp the material, and I'm excited to apply these skills in future challenges.
+
+On a different note, I also brushed up on my web development skills and wrote some HTML code. It's always great to diversify my skills and stay sharp......Journey with Me ☺️
+
+
 
 
  
