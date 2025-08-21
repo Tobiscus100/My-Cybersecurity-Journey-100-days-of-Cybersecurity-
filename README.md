@@ -660,4 +660,20 @@ On a different note, I also brushed up on my web development skills and wrote so
 
 
 
+Day 41 & 42: 100 Days of Cybersecurity
+
+Wednesday,20th August,2025.
+
+I didn't write a report yesterday, so I've combined yesterday's and today's progress. I started working on Cybrary, focusing on labs that included Password Cracking and Server labs. Additionally, I've continued brushing up on my web development skills....Journey with Me ☺️
+
+
+Day 43: 100 Days of Cybersecurity
+
+Thursday, 21st August,2025.
+
+Today, I continued learning on Cybrary, and the topics covered in today's modules were mostly a review of previously learned concepts. I also worked on my web development skills, expanding my knowledge in the field. Looking forward to becoming a proficient Web Developer and Cybersecurity Professional........Journey with Me☺️
+
+
+
+
  
